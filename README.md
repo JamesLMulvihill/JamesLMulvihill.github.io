@@ -1,4 +1,1 @@
-title: James Mulvihill
-#logo: /assets/img/headshot_circle.png
-show_downloads: true
-theme: jekyll-theme-minimal
+
