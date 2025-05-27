@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-#### Skills: C#, Python, R, SQL, JavaScript
+#### Skills: Python, R, SQL, C#, JavaScript
 
 ## Education
 - M.S. Data Science | Bellevue University (_June 2025_)
