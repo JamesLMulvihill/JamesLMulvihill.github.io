@@ -4,7 +4,7 @@
 
 ## Education
 - M.S. Data Science | Bellevue University (_June 2025_)
-- B.S. Computer Science and Software Engineering | Pensacola Christian College (_May 2014_)
+- B.S. Software Engineering | Pensacola Christian College (_May 2014_)
 
 ## Projects
 -	[Melbourne House Prices](https://github.com/JamesLMulvihill/MelbourneHousePrices) – in-depth look and modeling at what variables play the biggest determining factor in house prices around Melbourne, Australia
