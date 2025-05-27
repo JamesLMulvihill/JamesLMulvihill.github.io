@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Science Portfolio
 
 ### Education
 - M.S. Bellevue University in Data Science
