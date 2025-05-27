@@ -15,10 +15,10 @@
 - [Rise in Childcare Costs in Iowa](https://github.com/JamesLMulvihill/ChildcareCosts) – Analysis of the rise of childcare costs nationwide and in Iowa, presented in a Blog, Infographic, and PowerPoint presentation
 
 ## Work Expirence
-**Software Developer @ CentralSquare (_2020 - present_)**
-**Business Analyst @ ASSA ABLOY (_2019 - 2020_)**
-**Software Developer @ ASSA ABLOY (_2018 - 2019_)**
-**Software Developer @ Pensacola Christian College (_2014 - 2016_)**
+#Software Developer @ CentralSquare (_2020 - present_)
+#Business Analyst @ ASSA ABLOY (_2019 - 2020_)
+#Software Developer @ ASSA ABLOY (_2018 - 2019_)
+#Software Developer @ Pensacola Christian College (_2014 - 2016_)
 
 ## Contact 
 - JamesLMulvihill@gmail.com
